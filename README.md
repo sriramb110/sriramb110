@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sriram</h1>
-<h3 align="center">Frontend Developer | React | Next.js | React Native</h3>
 
----
+<h1 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+React+Native;Building+Clean+%26+Modern+UI)](https://git.io/typing-svg)
+</div>
+
 
 ### 🚀 About Me
 - 💻 Passionate **Frontend Developer**
@@ -10,44 +13,64 @@
 
 ---
 
-### 🧠 Skills & Experience Overview
+## 🧠 Knowledge Base
 
-#### 🌐 Frontend
-- **React** – ⭐⭐⭐⭐⭐ (50%)
-- **React Native** – ⭐⭐☆☆☆ (Basics)
-- **Next.js (TypeScript)** – ⭐⭐⭐⭐☆ (40%)
-- **Nx Monorepos** – ⭐⭐⭐⭐☆ (40%)
+### 🎯 Frontend
+- ⚛️ React — Hooks, Context, Redux Toolkit
+- 🔷 Next.js — Routing, SSR/ISR, API Routes
+- 📱 React Native — Basics, UI, Navigation
+- 🟦 TypeScript — Types, Interfaces, Props
+- 🎨 Tailwind CSS — Utility-first styling
+- 🏗️ Nx — Monorepo structure
 
-#### 🔧 Backend
-- **Node.js** – ⭐⭐☆☆☆ (20%)
+### 🖼️ Design Tools
+- 🎨 **Figma** — UI/UX design, Prototyping
+- 🟧 **Blender (Learning)** — 3D modelling basics
 
----
+### 🔧 Backend
+- 🟩 Node.js — fundamentals & basic APIs
+
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,ts,js,nodejs,npm,html,css,tailwind,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,reactnative,tailwind,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
+
+## 🎨 Design & Creative Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
+</p>
+
+
 ---
+  ## 📊 My GitHub Contribution Graph (Last 12 Months)
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sriramb110&theme=github-dark)
 
 ### 📈 GitHub Stats
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SRIRAMB110&theme=react" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SRIRAMB110&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SRIRAMB110&theme=tokyonight" alt="Most Committed Language" />
+  <p align="center" with-"100wh">
+    <img src="https://github-profile-trophy.vercel.app/?username=sriramb110&theme=onedark&column=8" />
+  </p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRIRAMB110&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SRIRAMB110&theme=tokyonight" alt="Most Committed Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRIRAMB110&theme=tokyonight" alt="GitHub Profile Summary" />
+  </p>
 
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRIRAMB110&theme=tokyonight&utcOffset=+2" alt="Productive Time" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRIRAMB110&theme=tokyonight" alt="GitHub Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SRIRAMB110&theme=tokyonight" alt="Repos per Language" />
   </p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRIRAMB110&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
+
 
 ### 🔗 Connect With Me
 <p align="left">
