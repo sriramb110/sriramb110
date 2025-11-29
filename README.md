@@ -60,7 +60,7 @@
 </p>
 
 - 🎨 **Figma** — UI/UX design, Prototyping ⭐⭐☆☆☆ (Basics)
-- 🟧 **Blender (Learning)** — 3D modelling basics ⭐⭐☆☆☆ (Learning)
+- 🟧 **Blender (Learning)** — 3D modelling basics ⭐☆☆☆☆ (Learning)
 
 ---
   ## 📊 My GitHub Contribution Graph (Last 12 Months)
