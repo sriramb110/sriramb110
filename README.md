@@ -5,7 +5,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+React+Native;Building+Clean+%26+Modern+UI)](https://git.io/typing-svg)
 </div>
 
-
 ### 🚀 About Me
 - 💻 Passionate **Frontend Developer**
 - 🎨 I love building clean UIs and scalable frontend architectures  
@@ -13,36 +12,55 @@
 
 ---
 
+
 ## 🧠 Knowledge Base
 
-### 🎯 Frontend
-- ⚛️ React — Hooks, Context, Redux Toolkit
-- 🔷 Next.js — Routing, SSR/ISR, API Routes
-- 📱 React Native — Basics, UI, Navigation
-- 🟦 TypeScript — Types, Interfaces, Props
-- 🎨 Tailwind CSS — Utility-first styling
-- 🏗️ Nx — Monorepo structure
 
-### 🖼️ Design Tools
-- 🎨 **Figma** — UI/UX design, Prototyping
-- 🟧 **Blender (Learning)** — 3D modelling basics
-
-### 🔧 Backend
-- 🟩 Node.js — fundamentals & basic APIs
-
-
-### 🛠️ Languages & Tools
-
+### 🚀 Frontend Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,reactnative,tailwind,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,html,css,angular" />
 </p>
 
+- ⚛️ React — Hooks, Context, Redux Toolkit ⭐⭐⭐⭐⭐ (50%)
+- 🔷 Next.js — Routing, SSR/ISR, API Routes ⭐⭐⭐⭐☆ (40%)
+- 🟦 TypeScript — Types, Interfaces, Props ⭐⭐⭐⭐☆ (40%)
+- 🏗️ Nx — Monorepo structure ⭐⭐⭐⭐☆ (40%)
 
-## 🎨 Design & Creative Tools
+### 📱 Mobile  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+- 📱 React Native — Basics, UI, Navigation ⭐⭐☆☆☆ (Basics)
+
+### 🛠️ Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm," />
+</p>
+
+- 🌀 Git — Version control for tracking and managing code changes
+
+- 🧭 GitHub — Hosting projects, managing repositories, Issues, Pull Requests
+
+- 🖥️ VS Code — Main code editor with extensions & workspace setup
+
+- 📦 npm — Package manager for JavaScript/Node ecosystem
+
+
+### 🌐 Backend (Basics)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs," />
+</p>
+
+- 🟩 Node.js — fundamentals & basic APIs ⭐⭐⭐⭐☆ (40%)
+
+### 🎨 Design & Creative Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,blender" />
 </p>
 
+- 🎨 **Figma** — UI/UX design, Prototyping ⭐⭐☆☆☆ (Basics)
+- 🟧 **Blender (Learning)** — 3D modelling basics ⭐⭐☆☆☆ (Learning)
 
 ---
   ## 📊 My GitHub Contribution Graph (Last 12 Months)
@@ -69,8 +87,6 @@
 </p>
 
 ---
-
-
 ### 🔗 Connect With Me
 <p align="left">
 <a href="www.linkedin.com/in/sriram997sriram007atgmail-com" target="_blank">
