@@ -33,8 +33,18 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SRIRAMB110&theme=react" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SRIRAMB110&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SRIRAMB110&theme=tokyonight" alt="Most Committed Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRIRAMB110&theme=tokyonight" alt="GitHub Profile Summary" />
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRIRAMB110&theme=tokyonight&utcOffset=+2" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRIRAMB110&theme=tokyonight" alt="GitHub Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SRIRAMB110&theme=tokyonight" alt="Repos per Language" />
+  </p>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRIRAMB110&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
