@@ -41,8 +41,8 @@
 
 ### 🔗 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-  <img src="www.linkedin.com/in/sriram997sriram007atgmail-com" height="40"/>
+<a href="www.linkedin.com/in/sriram997sriram007atgmail-com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
 
