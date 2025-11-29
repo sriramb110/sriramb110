@@ -53,13 +53,12 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SRIRAMB110&theme=react" />
-  <p align="center" with-"100wh">
-    <img src="https://github-profile-trophy.vercel.app/?username=sriramb110&theme=onedark&column=8" />
-  </p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRIRAMB110&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SRIRAMB110&theme=tokyonight" alt="Most Committed Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRIRAMB110&theme=tokyonight" alt="GitHub Profile Summary" />
+  </p>
+  <p align="center" with-"100vh" display="flex" gap="20px" ;>
+    <img src="https://github-profile-trophy.vercel.app/?username=sriramb110&theme=onedark&column=4" />
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SRIRAMB110&theme=tokyonight" alt="Most Committed Language" />
   </p>
 
   <p align="center">
