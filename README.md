@@ -89,9 +89,14 @@
 ---
 ### 🔗 Connect With Me
 <p align="left">
-<a href="www.linkedin.com/in/sriram997sriram007atgmail-com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+
+  <a href="https://www.linkedin.com/in/sriram997sriram007atgmail-com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sriram997sriram007@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+
 </p>
 
 ---
